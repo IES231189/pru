@@ -1,0 +1,8 @@
+{
+   "menuItems": [
+     {"label": "Instalaciones", "link": "/Clases" },
+     {"label": "contacto", "link": "/Perfil" },
+     {"label": "Promociones","link":"/Promociones"} ,
+     {"label": "Inicio", "link": "/" }
+   ]
+ }
